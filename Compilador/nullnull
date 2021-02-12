@@ -1,0 +1,11 @@
+int a,b,sum,mul,div;
+char i,o;
+float red;
+a=1;b=2;
+if (a=b){
+sum a+b;
+endif;
+mul=a*b;
+div=a/b;
+i='B';
+o='C';
